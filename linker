@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#gnome-terminal -- bash -c "cd bin && qmake ../QtTransparent.pro && make && ./QtTransparent"
+cd bin && qmake ../QtTransparent.pro && make && ./QtTransparent
